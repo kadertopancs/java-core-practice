@@ -1,4 +1,4 @@
-# Java Practice Week 2
+# Java Core Practice
 
 This repository contains Java console-based applications developed to strengthen core programming fundamentals.
 

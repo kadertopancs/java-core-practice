@@ -1,28 +1,25 @@
 # Java Core Practice
 
-This repository contains Java console-based applications developed to strengthen core programming fundamentals.
+This repository contains Java-based applications developed to strengthen core programming skills and build a solid foundation in software development.
 
-## Technical Scope
-- Primitive data types
-- Conditional statements (if-else, switch-case)
-- Loop structures (for, while, do-while)
-- Arrays
-- Basic console input handling
+## 📌 Scope
 
-## Project List
-- Bus Card Balance System
-- Cafe Order Tracking
-- Cargo Tracking
-- Car Maintenance Reminder
-- Cinema Ticketing
-- Class Attendance System
-- Energy Consumption Analysis
-- Gym Training Log
-- Market Shopping List
-- Operator Package Selection
+- Core Java fundamentals (variables, control flow, loops)
+- Data structures and collections
+- Algorithm development and problem solving
+- Console-based applications
+- Structured coding practices
 
-## Purpose
-The aim of this repository is to practice algorithmic thinking and strengthen core Java fundamentals.
+## 🎯 Purpose
 
-## Author
-Kader Topan
+The goal of this repository is to improve algorithmic thinking and reinforce core Java knowledge through continuous hands-on practice.
+
+## 🛠 Technologies
+
+- Java
+- IntelliJ IDEA
+- Git & GitHub
+
+## 🔄 Status
+
+This repository is actively updated on a weekly basis with new exercises and projects as part of continuous learning.
